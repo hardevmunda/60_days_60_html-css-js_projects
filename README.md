@@ -1,1 +1,1 @@
-# 60_day_60_days_html-css-js_projects
+# 60_days_60_html-css-js_projects
